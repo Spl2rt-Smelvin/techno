@@ -1,7 +1,7 @@
 # Lab 5: Linux Routing and Unbound DNS Implementation
 
 * **Course Module:** Network Services & Infrastructure
-* **Student:** Spl2rt-Smelvin
+* **Student:** Ken-Andro Lüüs
 * **Date:** 2026-10-05
 * **Target Topology:** Multi-homed Linux Gateway with Ubuntu Client
 
